@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pora-deho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Pora Deho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pora-deho/) |
+| **Get License** | [Music Rights & Licensing for Pora Deho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pora-deho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1949bc1499ca1de2da1f742bf4967366ac1cd63a18995d4aa70945b94b26b03f` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
