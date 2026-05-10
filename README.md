@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pora-deho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Pora Deho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pora-deho/) |
+| **Get License** | [Request Licensing for Pora Deho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pora-deho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> পুড়ে যাওয়া এই পোড়া দেহ খোঁজে তোমার ঘ্রাণ
+> অন্ধকারে তুমি আমার বেঁচে থাকার গান
+> নিঃশ্বাসে আজ আগুন ঝরে তীব্র বাসনায়
+> তুমি ছাড়া এই পৃথিবী একলা পড়ে রয়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
